@@ -51,9 +51,9 @@ I hope you will find this project compelling and engaging. Enjoy!
 
 [1]: https://embedded-lab.com/blog/introducing-easy-pulse-a-diy-photoplethysmographic-sensor-for-measuring-heart-rate
 [2]: ./HeartRate_Monitor_320x240_final.gif
-[3]: www.amazon.com/dp/B06XRBYJR8
+[3]: https://www.amazon.com/dp/B06XRBYJR8
 [4]: https://www.instructables.com/OLED-I2C-DISPLAY-WITH-ARDUINO-Tutorial/
 [5]: https://javl.github.io/image2cpp/
-[6]: www.youtube.com/@circuitapps
-[7]: www.tiktok.com/@circuitappschannel
-[8]: www.instagram.com/youtubecircuitapps
+[6]: https://www.youtube.com/@circuitapps
+[7]: https://www.tiktok.com/@circuitappschannel
+[8]: https://www.instagram.com/youtubecircuitapps
