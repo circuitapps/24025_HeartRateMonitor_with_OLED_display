@@ -20,12 +20,15 @@ The code takes care of all the visualization aspects on a 0.96 inch OLED display
 You also need to install the Adafruit SSD1306 library and its dependencies into your Arduino IDE for using the OLED display above. This is a very easy process and you can find the step by step instructions (check Step 5) in **[this excellent guide][4]**.
 
 The code handles the following cases:
-1 - Display message there is no pulse detected.
-2 - Display message while the pulse is bein gmeasured.
-3 - Display the detected pulse and update it in real time.
+
+1 . Display message there is no pulse detected.
+
+2 . Display message while the pulse is bein gmeasured.
+
+3 . Display the detected pulse and update it in real time.
 
 I also experimented with a few bitmap display features in this code. When the board is powered up, you will see a familiar circuitapps themed splash screen that will be visible for 2 seconds before the heart rate measurements start. I also created a simple animation that will be played back when heart rate acquisition has been completed sucessfully. Feel free to change those bitmap images and animations to your liking. If you are intending to play
-with bitmap images in this code, I strongly suggest checking out the link I provided in "Tips - 2".
+with bitmap images in this code, I strongly suggest checking out the link I provided in ***"Useful Tips #2"***.
 
 I hope you will find this project compelling and engaging. Enjoy!
 
