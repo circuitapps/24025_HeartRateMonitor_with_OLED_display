@@ -37,6 +37,7 @@ I hope you will find this project compelling and engaging. Enjoy!
 1. For accessing more OLED drawing and animation library functions, in your Arduino IDE go to Examples > Adafruit SSD1306 > ssd1306_128x64_i2c.
 ***This assumes the required Adafruit SSD1306 library and its dependencies are already installed in your Arduino development environment!***
 2. Check out **[this free online tool][5]** for easily creating your own bitmap code for a copy & paste use in this program!
+3. I also found a few useful tutorials on OLED display control using Arduino. Check out **[Ref 1][9]** and **[Ref 2][10]** for more information on this topic.
 
 
 *GOOD LUCK & ENJOY EXPERIMENTING WITH OUR HEART RATE MONITOR!*
@@ -57,3 +58,5 @@ I hope you will find this project compelling and engaging. Enjoy!
 [6]: https://www.youtube.com/@circuitapps
 [7]: https://www.tiktok.com/@circuitappschannel
 [8]: https://www.instagram.com/youtubecircuitapps
+[9]: https://www.instructables.com/How-to-Display-Images-on-OLED-Using-Arduino/
+[10]: https://www.instructables.com/Arduino-and-the-SSD1306-OLED-I2C-128x64-Display/
